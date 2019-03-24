@@ -6,10 +6,19 @@
     <description>Recent content on Terminal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 23 Mar 2019 22:00:53 +0300</lastBuildDate>
+    <lastBuildDate>Sun, 24 Mar 2019 09:03:13 +0300</lastBuildDate>
     
 	<atom:link href="https://elakorimu.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Yeni Yazi</title>
+      <link>https://elakorimu.github.io/post/yeni-yazi/</link>
+      <pubDate>Sun, 24 Mar 2019 09:03:13 +0300</pubDate>
+      
+      <guid>https://elakorimu.github.io/post/yeni-yazi/</guid>
+      <description>Yeni yazı yazdım. Bunu dist klasörüne göndereceğim. Sonra da push edeceğim. Bakalım nasıl bir commit çıkacak.</description>
+    </item>
     
     <item>
       <title>My First Post</title>
